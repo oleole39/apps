@@ -43,6 +43,13 @@ level = 8
 state = "working"
 url = "https://github.com/YunoHost-Apps/2fauth_ynh"
 
+[4get]
+branch = "main"
+category = "small_utilities"
+potential_alternative_to = [ "Bing", "DuckDuckGo", "Google", "SearX", "Yahoo", "Whoogle" ]
+state = "working"
+url = "https://github.com/YunoHost-Apps/4get_ynh"
+
 [abantecart]
 added_date = 1674232499 # 2023/01/20
 branch = "master"
